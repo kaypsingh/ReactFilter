@@ -1,0 +1,11 @@
+
+.main{
+  width: 900px !important;
+  margin-left: 150px !important;
+ height: 20px !important;
+}
+
+.dataTables_length .bs-select{
+  display: none !important;
+}
+
